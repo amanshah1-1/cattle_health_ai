@@ -13,7 +13,16 @@ Supports:
 Provides:
 - Streamlit interface for interactive chat  
 - FastAPI endpoint for integration  
-- Logging of all queries  
+- Logging of all queries
+
+  cattle_ai_assistant/
+├── data.txt
+├── app.py          # Streamlit app
+├── agent.py        # Multi-agent / tools
+├── api.py          # FastAPI endpoints
+├── requirements.txt
+├── README.md
+└── utils.py        # helper functions (optional)
 
 ## 🚀 How to Run
 

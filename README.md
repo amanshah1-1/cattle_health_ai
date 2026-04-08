@@ -1,5 +1,4 @@
-
-![alt text](image.png)
+![Cattle Health AI Screenshot](p_1.png)
 
 
 # 🐄 Cattle Health AI Assistant

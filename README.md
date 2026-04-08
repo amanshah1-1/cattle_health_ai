@@ -1,3 +1,7 @@
+
+![alt text](image.png)
+
+
 # 🐄 Cattle Health AI Assistant
 
 A multi-agent AI assistant for cattle health using **LangChain RAG** + **Ollama** + **FAISS embeddings**.  

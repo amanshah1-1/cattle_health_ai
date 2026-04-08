@@ -3,6 +3,7 @@
 ![Cattle Health AI Screenshot](p_1.png)
 
 ## Description
+![Cattle Health AI Screenshot](Cattle_health_AI_assistant_architecture.png)
 A multi-agent AI assistant for cattle health using **LangChain RAG**, **Ollama**, and **FAISS embeddings**.  
 
 Supports:

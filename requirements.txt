@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+langchain
+faiss-cpu
+huggingface-hub
+ollama
+pydantic

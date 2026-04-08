@@ -1,0 +1,20 @@
+Our product is a cattle health monitoring system designed to improve livestock productivity and early disease detection.
+
+The system continuously monitors cattle behavior using sensors. It tracks key parameters such as rumination, activity levels, resting patterns, and movement.
+
+Rumination monitoring helps detect digestion issues and stress in cattle. A decrease in rumination can indicate potential health problems.
+
+Activity tracking helps identify abnormal behavior such as reduced movement, lameness, or illness. Sudden spikes or drops in activity can signal health risks.
+
+The system generates different types of alerts:
+- Health Alerts: Triggered when abnormal patterns are detected.
+- Inactivity Alerts: Generated when cattle show very low movement.
+- Attention Needed Alerts: Indicates possible early-stage disease or unusual behavior.
+
+Farmers receive real-time notifications through a mobile application. This helps them take quick action and prevent serious health issues.
+
+Early disease detection reduces treatment costs, minimizes losses, and improves overall farm productivity.
+
+The system also stores historical data, allowing farmers to analyze trends and make better decisions.
+
+This solution helps in improving animal welfare, increasing milk production, and optimizing farm operations.
